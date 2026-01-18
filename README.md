@@ -2,7 +2,7 @@
 
 ## 1. A Tutorial Introduction
 
-### 1.1 Getting Started
+### [1.1 Getting Started](https://github.com/Udayudi/lipc/tree/main/chapter_1)
 
 
 
